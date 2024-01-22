@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mongoChart:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2024-01-22T11:10:36.622358231+05:30"
+    description: My custom mongo chart
+    digest: b391c39ad389211d6d194d9a255046ce4a70c13e14f6df84d1e10cb433bc7a9a
+    name: mongoChart
+    urls:
+    - Packages/mongoChart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-22T11:10:36.621898636+05:30"
